@@ -1,3 +1,5 @@
+# Exercises and Solutions by Nicholas Bertollo
+
 import math
 
 class Circle:

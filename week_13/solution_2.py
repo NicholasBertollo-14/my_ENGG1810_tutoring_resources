@@ -1,3 +1,4 @@
+# Exercises and Solutions by Nicholas Bertollo
 
 def mode(values: list[float]) -> set[float]:
     """

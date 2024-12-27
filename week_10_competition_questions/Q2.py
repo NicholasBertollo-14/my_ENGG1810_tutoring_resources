@@ -16,9 +16,3 @@ def discrete_squareroot(n: int) -> int:
         7 -> ValueError
     CANNOT USE THE sqrt FUNCTION
     """
-    if n == 0:
-        return 0
-    for i in range(n):
-        if i * i == n:
-            return i
-    raise ValueError(f"{n} is not a perfect square")

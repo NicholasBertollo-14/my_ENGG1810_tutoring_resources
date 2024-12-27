@@ -1,8 +1,12 @@
+# Exercises and Solutions by Nicholas Bertollo
+
 """
 Note that I created these solutions very quickly
 Therefore they might not work. 
 However the general vibe should be fine. 
-And 
+Also I changes some of the questions but not the solutions
+this means the wording and possibly the question itself
+might be different.  
 """
 
 def sum(values: list[float]) -> float:

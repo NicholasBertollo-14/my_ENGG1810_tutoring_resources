@@ -1,3 +1,5 @@
+# Exercises and Solutions by Nicholas Bertollo
+
 import unittest
 from solution_1a import Braid
 

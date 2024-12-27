@@ -1,3 +1,4 @@
+# Exercises and Solutions by Nicholas Bertollo
 
 def no_occurance(file_name: str, character: str) -> int:
     """

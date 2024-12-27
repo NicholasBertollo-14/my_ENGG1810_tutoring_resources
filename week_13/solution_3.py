@@ -1,3 +1,5 @@
+# Exercises and Solutions by Nicholas Bertollo
+
 from matplotlib import pyplot as plt
 import re
 import numpy as np

@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 import math
 
-# Data
+# x and y positions for the sine function
 sin_x_values: list[float] = [x / 10 for x in range(-100, 100, 1)]
 sin_y_values: list[float] = []
 for x_value in sin_x_values:
@@ -13,7 +13,7 @@ favourite_colours: dict[str: int] = {
     "Blue": 4
 }
 
-# fig and ax get decomposed
+# fig and ax get decomposed, ax is a collection of 4 plots
 fig, ax = plt.subplots(2, 2)
 # fig is like the background
 # ax is the axes, like the subplots, this is more useful

@@ -1,3 +1,5 @@
+# Exercises and Solutions by Nicholas Bertollo
+
 from typing import Self
 
 class State:
