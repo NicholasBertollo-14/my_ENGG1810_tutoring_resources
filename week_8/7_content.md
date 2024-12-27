@@ -1,0 +1,61 @@
+
+# Questions
+
+- What is a type?
+- What is an object?
+- How are numbers stored in a computer?
+- What does the term ``floating-point error`` refer to?
+- How are strings stored in a computer?
+- What is a character encoding?
+- Name 3 reasons why using annotations and comments is good practice?
+- What is a memory address? How do you see the memory address of an object in python?
+- What operator is used to compare memory addresses in Python?
+- What types of loops are in Python?
+- Why might the `for` loop be named incorrectly?
+- What is the definition of an iterable?
+- Why do you use a for loop in python?
+- When would you use a `for` loop instead of a `while` loop?
+- What does the function `enumerate` do?
+- What is the definition of a collection?
+- What collections exist in Python?
+- Which of these collections are ordered?
+- Is it possible to create your own collections in Python?
+- Why is not closing a file a bad idea?
+- Why would you use a `with` statement instead of opening and closing a file normally?
+- When is a `try except` block used?
+- What is the most difficult error to handle out of syntax, runtime, and logical?
+- Give an example of when you want to use `raise` to raise an error.
+- What does it mean for there to be a exception heirachy?
+- What is a function in Python?
+- Define the term argument.
+- Compare the terms positional argument and keyword argument?
+- How do you create a default parameter?
+- What does the term scope refer to?
+- What is the definition of local and global variables?
+- Can you modify a global variable inside a function?
+- What does the `global` keyword do?
+- What do the terms "Pass by value" and "Pass by reference" mean?
+- Name all the pass-by-value types.
+- Give an example of a pass-by-reference type.
+- What does the term higher order function refer to?
+- What is the difference between a script and a module?
+- What is the difference between a library, package, and module?
+- How many ways are there to import a module?
+- When a python file is imported from another file, what happens specifically?
+- What make's it possible to have a python file that's a script and a module.
+- Why is it good practice to use a `main` function?
+- What does the term modular code refer to?
+- Why is it good practice to create modular code?
+- Name a major problem solving technique that's unique to programming.
+- What is a class?
+- Why are classes important?
+- What is an instance of a class?
+- What is the difference between a type, an object, a class, and an instance of a class?
+- What is a constructor?
+- What is the difference between a function and a method?
+- When creating a class, what does the object `self` refer to?
+- Why do we use getters and setters when creating a class?
+- What is the difference between a `str` and a `repr`?
+- What method has a special name that designates how an object is converted to a string?
+- Do classes create their own scope like functions and modules do?
+- What is the difference between a unary and binary operator? Give some examples

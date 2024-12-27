@@ -1,0 +1,21 @@
+
+
+Basically the rest of the semester will be using content from
+the last 5-6 weeks as though you know it. 
+You know:
+ - collections
+ - control flow
+ - importing
+ - matplotlib
+ - exceptions
+ - file opening and manipulation
+ - basic regex
+ - functions and function scope
+
+This includes good coding practices such as:
+ - Not using global variables.
+ - Using a main function in almost every program.
+ - Using spaces between binary operators.
+ - Using annotations and comments.
+ - Using functions to create modular code.
+ - Making all python files both scripts and modules.
